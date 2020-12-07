@@ -1,0 +1,6 @@
+framework module Pods_TMDbHits_TMDbHitsUITests {
+  umbrella header "Pods-TMDbHits-TMDbHitsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
